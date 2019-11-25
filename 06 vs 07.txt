@@ -1,7 +1,0 @@
-Differences between 06 and 07
-
-06
-has a [jit.gen] that is performing rotations on the entire set of cubes. looks pretty cool.
-
-07
-the poly~ is attempting to do something with sound per instance of rotating cube. currently does now work
